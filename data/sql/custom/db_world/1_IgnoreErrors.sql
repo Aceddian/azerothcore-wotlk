@@ -41,4 +41,15 @@ DELETE FROM `pool_quest`;
 DELETE FROM `pool_template`;
 -- Delete all content of "smart_scripts" table.
 DELETE FROM `smart_scripts`;
+DELETE FROM `creature_addon`;
+DELETE FROM `creature_movement_override`;
+DELETE FROM `gameobject_addon`;
+DELETE FROM `linked_respawn`;
+DELETE FROM `creature_queststarter`;
+DELETE FROM `creature_questender`;
+DELETE FROM `gameobject_queststarter`;
+DELETE FROM `gameobject_questender`;
+DELETE FROM `npc_vendor`;
+
+-- DELETE FROM ``;
 
