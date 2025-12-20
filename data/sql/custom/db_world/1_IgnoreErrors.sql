@@ -28,8 +28,6 @@ DELETE FROM `game_event_npcflag`;
 -- Delete all content of "game_event_npcflag_vendor" table.
 DELETE FROM `game_event_npcflag_vendor`;
 -- Delete all content of "game_event_npcflag_vendor" table.
-DELETE FROM `game_event_npcflag_vendor`;
--- Delete all content of "game_event_pool" table.
 DELETE FROM `game_event_pool`;
 -- Delete all content of "pool_creature" table.
 DELETE FROM `pool_creature`;
