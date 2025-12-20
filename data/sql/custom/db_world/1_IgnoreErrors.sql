@@ -26,7 +26,7 @@ DELETE FROM `game_event_gameobject_quest`;
 -- Delete all content of "game_event_npcflag" table.
 DELETE FROM `game_event_npcflag`;
 -- Delete all content of "game_event_npcflag_vendor" table.
-DELETE FROM `game_event_npcflag_vendor`;
+DELETE FROM `game_event_npc_vendor`;
 -- Delete all content of "game_event_npcflag_vendor" table.
 DELETE FROM `game_event_pool`;
 -- Delete all content of "pool_creature" table.
